@@ -45,8 +45,10 @@ CONTAINS(CommentBody, 'hate'),
 CONTAINS(CommentBody, 'douche'),
 CONTAINS(CommentBody, 'douchebag'),
 CONTAINS(CommentBody, 'fagot'),
-CONTAINS(CommentBody, 'nob gobbler'),
+CONTAINS(CommentBody, 'gobbler'),
 CONTAINS(CommentBody, 'retard'),
 CONTAINS(CommentBody, 'retarded'),
+CONTAINS(CommentBody, 'muncher'),
+CONTAINS(CommentBody, 'nob'),
 CONTAINS(CommentBody, '')
 )
