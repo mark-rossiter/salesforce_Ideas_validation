@@ -1,0 +1,4 @@
+Rule Name: {example: "Swearing_Validation_for_Titles_and_Descr"}
+Description: {example: "Prevents users from entering offensive language in the Title and Description fields
+when posting an Idea."}
+Error Message: {example: "You are unable to add this comment to the Community due to use of unauthorised language. Note: Posts to the Community cannot be removed."}

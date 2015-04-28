@@ -1,0 +1,3 @@
+Rule Name: {example: "Swearing_Validation_for_Comments"}
+Description: {example: "Prevents users from entering offensive language when posting a comment."}
+Error Message: {example: "You are unable to add this comment to the Community due to use of unauthorised language. Note: Posts to the Community cannot be removed."}
